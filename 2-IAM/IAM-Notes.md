@@ -30,7 +30,7 @@ Note: AWS IAM follows the least privilege principle to restrict a user with a mi
     - `Version:` - THe latest policy language version
     - `Statement` - One or more statements that define the permissions.
 
-![IAM Role Policy Example](/aws/SAA-C03/assets/images/IAM-Role-Policy.png)
+![IAM Role Policy Example](/assets/Images/IAM-Role-Policy.png)
 
 ## IAM Access Analyzer and Credential reports
 `Credentials Report:` Lists all IAM users, password policies and access keys for security checks.
